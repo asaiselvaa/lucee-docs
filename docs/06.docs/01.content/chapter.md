@@ -37,6 +37,6 @@ i.e.```[https://luceeserver.atlassian.net/browse/LD-111](https://luceeserver.atl
 
 Docs itself exposes oembed metadata thanks to [iframely](https://iframely.com/)
 
-For more information see1
+For more information see
 
 [https://luceeserver.atlassian.net/browse/LD-111](https://luceeserver.atlassian.net/browse/LD-111)
